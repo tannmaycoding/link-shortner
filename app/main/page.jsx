@@ -107,7 +107,7 @@ const Main = () => {
         </div>
 
         <div className="mt-6 text-sm text-gray-800 text-center">
-          Example: <span className="font-semibold">yourdomain.com/my-link</span>
+          Example: <span className="font-semibold">https://link-shortner-gold-iota.vercel.app/link/my-link</span>
         </div>
 
       </div>
